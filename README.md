@@ -1,5 +1,5 @@
 #  About Me:
-Bondan<br>Playground Repository<br><br>Just a playground repository for learning purposes, experimenting with new tech stacks, and quick prototyping.<br><br>##  Tech Stack & Tools<br>- **Languages:** Python, JavaScript, HTML/CSS<br>- **Environments:** Jupyter Notebook, Node.js<br><br>##  Repository Contents<br>Berikut adalah beberapa hal yang dieksperimenkan di repositori ini:<br>- `/data-analysis` : Skrip pemrosesan data, statistika harian, atau eksplorasi dataset.<br>- `/ui-ux-sandbox` : Prototipe visual, komponen layout web, atau eksperimen antarmuka digital.<br>- `/mini-scripts` : Alat otomatisasi kecil atau potongan kode logika (utility functions).<br><br>##  How to Use<br>1. Clone repositori ini ke lokal:<br>   ```bash<br>   git clone [https://github.com/username/bondan.git](https://github.com/username/bondan.git)<br><br>   <br>
+Bondan<br>Playground Repository<br><br>Just a playground repository for learning purposes, experimenting with new tech stacks, and quick prototyping
 
 
 ##  Socials:
@@ -11,6 +11,8 @@ Bondan<br>Playground Repository<br><br>Just a playground repository for learning
 ![](https://github-readme-stats.shion.dev/api?username=bakti-hub&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=bakti-hub&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=bakti-hub&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bakti-hub&show_icons=true&theme=radial&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bakti-hub&layout=compact&theme=radial&hide_border=true)
 
 ---
 [![](https://komarev.com/ghpvc/?username=bakti-hub&icon=0&color=0)](https://visitcount.itsvg.in)
