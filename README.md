@@ -11,8 +11,6 @@ Bondan<br>Playground Repository<br><br>Just a playground repository for learning
 ![](https://github-readme-stats.shion.dev/api?username=bakti-hub&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=bakti-hub&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=bakti-hub&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bakti-hub&show_icons=true&theme=radial&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bakti-hub&layout=compact&theme=radial&hide_border=true)
 
 ---
 [![](https://komarev.com/ghpvc/?username=bakti-hub&icon=0&color=0)](https://visitcount.itsvg.in)
